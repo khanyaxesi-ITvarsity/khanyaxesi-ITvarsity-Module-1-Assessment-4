@@ -1,0 +1,26 @@
+th {
+     font-weight: bolder;
+}
+table{
+     font-family: inherit
+}
+table {
+    border-collapse: collapse;
+}
+th {
+    font-weight     : 800;
+    background-color: aqua;
+    color           : blueviolet;
+}
+table{
+      font-family: inherit
+      border-collapse: collapse;
+      border-width   : 3px;
+      border-style: groove;
+      border-color   : aqua;
+}
+td{ font-weight: 800;
+    background-color: white;
+    color: blueviolet;
+     
+}
